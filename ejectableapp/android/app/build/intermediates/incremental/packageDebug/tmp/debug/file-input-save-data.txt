@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Oct 16 01:06:45 PDT 2018
+#Wed Oct 17 00:55:34 PDT 2018
 17.baseType=DIRECTORY
 4.path=lib/x86/libfb.so
 25.base=/Users/chapatel/GitHub/reactnative-udemycourse-projects/ejectableapp/android/app/build/intermediates/transforms/stripDebugSymbol/debug/0
